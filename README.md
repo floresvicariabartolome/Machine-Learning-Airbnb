@@ -1,5 +1,5 @@
-# Modulo-Machine-Learning-Keepcoding
+# Machine-Learning-Airbnb
 
-Entregar módulo Machine Learning Keepcoding.
+Machine Learning aplicado a datos de Airbnb
 
 Hay que añadir airbnb-listings-extract.csv al repositorio.
